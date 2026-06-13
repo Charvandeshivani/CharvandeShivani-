@@ -31,7 +31,6 @@
 - 🐍 Python
 - 🗃️ SQL
 - 📈 Power BI
-- 📉 Tableau
 - 📋 Data Visualization
 
 ## 💻 Languages and Tools
