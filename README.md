@@ -20,7 +20,8 @@
 - 💡 Interested in solving real-world problems using data-driven approaches
 - ⭐ **5★ HackerRank** in **SQL & Python**
 - 🤝 Open to internships, collaborations, and learning opportunities
-- 📫 Reach me at **your-email@example.com**
+- 📫 Reach me at **shivanicharvande@gmail.com**
+  
 
 ---
 
