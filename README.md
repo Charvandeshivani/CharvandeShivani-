@@ -49,19 +49,39 @@
 
 ---
 
+
+
 ## 💻 Languages and Tools
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/>
-  <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" width="45" height="45"/>
-  <img src="https://img.icons8.com/color/48/tableau-software.png" alt="Tableau" width="45" height="45"/>
-</p>
+<a href="https://www.python.org/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+</a>
 
+<a href="https://www.java.com/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
+</a>
+
+<a href="https://www.cprogramming.com/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" height="50"/>
+</a>
+
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
+</a>
+
+<a href="https://github.com/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
+</a>
+
+<a href="https://powerbi.microsoft.com/" target="_blank">
+<img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" width="50" height="50"/>
+</a>
+
+<a href="https://www.tableau.com/" target="_blank">
+<img src="https://img.icons8.com/color/48/tableau-software.png" alt="Tableau" width="50" height="50"/>
+</a>
+</p>
 ---
 
 ## 📊 GitHub Stats
