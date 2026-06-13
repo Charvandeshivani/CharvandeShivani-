@@ -22,7 +22,7 @@
 - ⭐ **5★ HackerRank** in **SQL & Python**
 - 🤝 Open to internships, collaborations, and learning opportunities
 - 📫 Reach me at
-    ** personal :shivanicharvande@gmail.com**
+    **shivanicharvande@gmail.com**
   
 
 ---
