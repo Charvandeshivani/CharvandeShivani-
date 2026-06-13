@@ -3,11 +3,11 @@
 <h3 align="center">B.Tech IT Student | Data Analytics & AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Aspiring+Data+Analyst;AI+%26+Machine+Learning+Enthusiast;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau;Always+Learning+New+Things!" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://github.com/shivanicharvande?tab=followers">
+    <img src="https://img.shields.io/github/followers/shivanicharvande?label=Followers&style=social" alt="GitHub Followers" />
+  </a>
+  
+  <img src="https://komarev.com/ghpvc/?username=shivanicharvande&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
