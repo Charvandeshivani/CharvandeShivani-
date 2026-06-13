@@ -28,19 +28,19 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/shivani-charvande-24uit/" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" />
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40" />
 </a>
 
 <a href="https://www.hackerrank.com/profile/shivanicharvande" target="blank">
-<img align="center" src="https://cdn.simpleicons.org/hackerrank/2EC866" alt="hackerrank" height="40" width="40" />
+<img align="center" src="https://cdn.simpleicons.org/hackerrank/2EC866" alt="HackerRank" height="40" width="40" />
 </a>
 
 <a href="https://leetcode.com/u/Rajput_Shivani/" target="blank">
-<img align="center" src="https://cdn.simpleicons.org/leetcode/FFA116" alt="leetcode" height="40" width="40" />
+<img align="center" src="https://cdn.simpleicons.org/leetcode/FFA116" alt="LeetCode" height="40" width="40" />
 </a>
 
 <a href="https://www.codechef.com/users/shivani_026" target="blank">
-<img align="center" src="https://cdn.simpleicons.org/codechef/5B4638" alt="codechef" height="40" width="40" />
+<img align="center" src="https://cdn.simpleicons.org/codechef/5B4638" alt="CodeChef" height="40" width="40" />
 </a>
 </p>
 
