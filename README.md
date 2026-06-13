@@ -20,8 +20,9 @@
 - 💡 Interested in solving real-world problems using data-driven approaches
 - ⭐ **5★ HackerRank** in **SQL & Python**
 - 🤝 Open to internships, collaborations, and learning opportunities
-- 📫 Reach me at ** personal :shivanicharvande@gmail.com
--  Professional : shivani.charvande_24uit@sanjivanicoe.org.in**
+- 📫 Reach me at
+   ** personal :shivanicharvande@gmail.com
+  Professional : shivani.charvande_24uit@sanjivanicoe.org.in**
   
 
 ---
@@ -66,23 +67,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Charvandeshivani&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charvandeshivani&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Charvandeshivani&theme=onedark&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
----
 
 ## 🚀 Skills
 
@@ -93,7 +87,6 @@ Data Analytics • Artificial Intelligence • Machine Learning
 
 ---
 
-## ✨ Quote
 
 > "Transforming data into insights and ideas into impact."
 
