@@ -6,7 +6,7 @@
   <a href="https://github.com/Charvandeshivani">
     <img src="https://img.shields.io/badge/FOLLOW-@CHARVANDESHIVANI-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow @Charvandeshivani"/>
   </a>
-</p>
+
   
   <img src="https://komarev.com/ghpvc/?username=shivanicharvande&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
