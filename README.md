@@ -22,8 +22,9 @@
 - ⭐ **5★ HackerRank** in **SQL & Python**
 - 🤝 Open to internships, collaborations, and learning opportunities
 - 📫 Reach me at
+  
    ** 1.personal :shivanicharvande@gmail.com
- 2. Professional : shivani.charvande_24uit@sanjivanicoe.org.in**
+      2. Professional : shivani.charvande_24uit@sanjivanicoe.org.in**
   
 
 ---
