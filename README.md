@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/shivanicharvande?tab=followers">
-    <img src="https://img.shields.io/github/followers/shivanicharvande?label=Followers&style=social" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/Charvandeshivani?label=Followers&style=social" alt="GitHub Followers" />
   </a>
   
   <img src="https://komarev.com/ghpvc/?username=shivanicharvande&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -20,7 +20,8 @@
 - 💡 Interested in solving real-world problems using data-driven approaches
 - ⭐ **5★ HackerRank** in **SQL & Python**
 - 🤝 Open to internships, collaborations, and learning opportunities
-- 📫 Reach me at **shivanicharvande@gmail.com**
+- 📫 Reach me at **1. shivanicharvande@gmail.com
+- 2. shivani.charvande_24uit@sanjivanicoe.org.in**
   
 
 ---
